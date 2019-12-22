@@ -15,4 +15,5 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 
 # Attached Files
 CodeBook.md - A description of the variables in the R code
-run_analysis.R - Script that downloads the files from the zip above and produces a tidy table of average data for all variables, activities and participants.
+run_analysis.
+R - Script that downloads the files from the zip above and produces a tidy table of average data for all variables, activities and participants.
